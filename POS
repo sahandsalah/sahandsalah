@@ -1,0 +1,11 @@
+This Inventory & POS management system is developed on Bootstrap 5 for the Frontend, PHP for the backend and MySQL for the Database.
+On this system i focused on various features such as:
+  • Friendly Point of Sale Screen.
+  • Daily, Weekly, Monthly and Annual reports.
+  • User Management.
+  • User Permissions for using the system.
+  • Return products is available on the system.
+  • Selling products by debt is available.
+  • This system contains: Expired product alert before the time we identify.
+  and so many features...
+  
